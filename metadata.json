@@ -1,0 +1,10 @@
+{
+  "name": "RepForm AI",
+  "description": "AI-powered biomechanics workout tracking application with computer vision pose detection, multi-exercise form analysis (Squats, Pull-Ups, Push-Ups, Jumps), global leaderboard, and MongoDB backend.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
